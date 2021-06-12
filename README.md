@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sandip300300
+- 👋 Hi, I’m Sandip Mistry
 - 👀 I’m interested in web developmet
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on laravel project
